@@ -1,1 +1,1 @@
-console.log("Bermain Game")
+console.log("Bermain Game");
